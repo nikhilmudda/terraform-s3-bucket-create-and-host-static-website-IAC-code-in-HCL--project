@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         S3_BUCKET = 'jenkins-bucket-nik'
-        AWS_REGION = 'us-east-1'
+        AWS_REGION = 'ap-southeast-2'
     }
 
     stages {
