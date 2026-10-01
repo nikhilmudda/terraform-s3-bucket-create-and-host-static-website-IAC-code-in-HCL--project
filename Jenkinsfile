@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        S3_BUCKET = 'jks-bucket-0109'
+        S3_BUCKET = 'jenkins-bucket-nik'
         AWS_REGION = 'us-east-1'
     }
 
